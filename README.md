@@ -54,6 +54,9 @@ Follow these steps for completing your project.
 - [ ] Plan which components will hold state, what data each needs from props (if any), and where you will be making your data fetch.
 - [ ] Now it's time to jump into the code!
 
+![Jarone's Nasa WireFrame](/nasaWireFrame.png)
+Format: ![Jarones WireFrame](https://jaronemccorkle64337.invisionapp.com/freehand/Nasa-Photo-of-The-Day-ydkWeSdt4?v=B5WDCMp61GbZ8olRmFxyxQ%3D%3D&linkshare=urlcopied)
+
 **Step 2 - File structure**
 
 - [ ] Take a look at your planned components. Create the folders and files you need for each component.
