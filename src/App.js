@@ -1,15 +1,23 @@
 import React from "react";
 import "./App.css";
+import Container from "./Container";
+import styled from 'styled-components';
+
+const AppContainer = styled.div` 
+  background-color: white;
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+`;
 
 function App() {
+
   return (
-    <div className="App">
-      <p>
-        Read through the instructions in the README.md file to build your NASA
-        app! Have fun <span role="img" aria-label='go!'>🚀</span>!
-      </p>
-    </div>
+    <AppContainer className='app'>
+      <Container />
+    </AppContainer>
   );
-}
+};
 
 export default App;
